@@ -1,0 +1,4 @@
+module ttycall [system] {
+  header "ttycall.h"
+  export *
+}
